@@ -1,3 +1,5 @@
+https://chromewebstore.google.com/detail/vxtwitter-url-modifier/fjphdcobpcafboggpjdimkcbgcbghlfh?hl=en-GB
+
 Modifies Twitter URLs to start with 'vx' and copies the modified URL.
 
 To use:
