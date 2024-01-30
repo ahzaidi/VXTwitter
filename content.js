@@ -16,9 +16,9 @@ function getSelectedText() {
   return text;
 }
 
-// Event listener for the Ctrl+C command
+// Event listener for the Ctrl+C and Ctrl+Shift+C commands
 document.addEventListener('keydown', function(event) {
-  if (event.ctrlKey && event.key === 'c') {
+  if (event.ctrlKey && (event.key === 'c' || event.key === 'C')) {
     let selectedText = getSelectedText();
     if (selectedText.length === 0) {
       // No text is selected, copy the modified URL
