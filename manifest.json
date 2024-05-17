@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "VXTwitter URL Modifier",
+  "name": "Fixvx URL Modifier",
   "version": "1.3",
-  "description": "Modifies Twitter(X) URLs to start with 'fixv' and copies the modified URL.",
+  "description": "Modifies Twitter(X) URLs to start with 'fixv' and copies the modified URL. Allows for easier sharing.",
   "permissions": [],
   "host_permissions": ["https://x.com/*"],
   "action": {
