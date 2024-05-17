@@ -1,7 +1,7 @@
 // Function to modify the URL
 function modifyUrl() {
   let currentUrl = window.location.href;
-  let modifiedUrl = currentUrl.replace("https://twitter.com/", "https://vxtwitter.com/");
+  let modifiedUrl = currentUrl.replace("https://x.com/", "https://fixvx.com/");
   return modifiedUrl;
 }
 
